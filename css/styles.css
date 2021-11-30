@@ -1,6 +1,9 @@
 body {
   margin: 0;
+  text-align: center;
 }
+
+
 
 .c1{
   color: #F05454;
@@ -10,19 +13,18 @@ body {
 }
 
 h1 {
-  margin-top: 0;
+  margin: 0 auto;
   font-size: 55px;
-  display: inline;
 }
 
 h4 {
+  margin: 0 auto;
   font-size: 35px;
-  display: inline;
 }
 
 p {
+  margin: 0 auto;
   font-size: 25px;
-  display: inline;
 }
 
 .BG_PC {
@@ -34,7 +36,7 @@ p {
   height: 50px;
   position: relative;
   left: 1000px;
-  top: 25px;
+  top: 20px;
 }
 
 .Logo{
