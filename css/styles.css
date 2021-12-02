@@ -4,18 +4,17 @@ body {
   height: 100%;
 }
 
-
-
-.c1{
+.c1 {
   color: #F05454;
 }
-.c2{
+
+.c2 {
   color: #DDDDDD;
 }
 
 h1 {
   margin: 0 auto;
-  font-size: 55px;
+  font-size: 60px;
   font-family: 'Russo One', sans-serif;
 }
 
@@ -37,26 +36,27 @@ p {
   height: 100%;
 }
 
-
-.Menu_Location{
+.Menu_Location {
   width: 800px;
   height: 50px;
   position: absolute;
   left: 50%;
   top: 100px;
 }
+
 .Icon_menu {
   position: absolute;
   width: 50px;
   height: 50px;
 }
-.Menu-Items{
+
+.Menu-Items {
   position: absolute;
   top: 5px;
-  left:60px;
+  left: 60px;
 }
 
-.Logo{
+.Logo {
   width: 150px;
   height: 150px;
   position: absolute;
