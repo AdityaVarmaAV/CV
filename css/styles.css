@@ -1,0 +1,73 @@
+body {
+  margin: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.c1 {
+  color: #F05454;
+}
+
+.c2 {
+  color: #DDDDDD;
+}
+
+h1 {
+  margin: 0 auto;
+  font-size: 100%;
+  font-family: 'Russo One', sans-serif;
+}
+
+h4 {
+  margin: 0 auto;
+  font-size: 30px;
+  font-family: 'Varela Round', sans-serif;
+}
+
+p {
+  margin: 0 auto;
+  font-size: 25px;
+  font-family: 'Varela Round', sans-serif;
+}
+
+.BG_PC {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+.Menu_Location {
+  width: 800px;
+  height: 50px;
+  position: absolute;
+  left: 50%;
+  top: 100px;
+}
+
+.Icon_menu {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+}
+
+.Menu-Items {
+  position: absolute;
+  top: 5px;
+  left: 60px;
+}
+
+.Logo {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  left: 90%;
+  top: 50px;
+}
+
+.NamePlate {
+  width: 800px;
+  height: 400px;
+  position: absolute;
+  left: 850px;
+  top: 400px;
+}
