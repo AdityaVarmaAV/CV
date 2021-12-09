@@ -39,32 +39,16 @@ p {
   height: 67.5rem;
 }
 
-.Menu_Location {
-  width: 800px;
-  height: 50px;
+.navbar{
   position: absolute;
-  left: 50%;
-  top: 100px;
-}
-
-.Icon_menu {
-  position: absolute;
-  width: 3.12rem;
-  height: 3.12rem;
-}
-
-.Menu-Items {
-  position: absolute;
-  top: 5px;
-  left: 60px;
 }
 
 .Logo {
   width: 9.37rem;
   height: 9.37rem;
-  position: absolute;
+  /* position: absolute;
   left: 90%;
-  top: 50px;
+  top: 50px; */
 }
 
 .NamePlate {
