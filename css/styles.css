@@ -1,6 +1,5 @@
 body {
-  margin: 0;
-  font-size:1.5rem;
+  font-size: 1.5rem;
 }
 
 .c1 {
@@ -11,7 +10,7 @@ body {
   color: #DDDDDD;
 }
 
-.textcenter{
+.textcenter {
   text-align: center;
 }
 
@@ -39,17 +38,13 @@ p {
   height: 67.5rem;
 }
 
-.menupos{
-  position: absolute;
-
+.container-fluid{
+  padding: 1.5% 15%;
 }
 
 .Logo {
   width: 9.37rem;
   height: 9.37rem;
-  /* position: absolute;
-  left: 90%;
-  top: 50px; */
 }
 
 .NamePlate {
