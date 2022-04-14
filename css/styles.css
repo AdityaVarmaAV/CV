@@ -42,6 +42,10 @@ p {
   padding: 1.5% 15%;
 }
 
+.nav-item{
+  padding: 0 18px;
+}
+
 .Logo {
   width: 9.37rem;
   height: 9.37rem;
